@@ -1,5 +1,8 @@
 # Data-Science-Project
 
+# The Problem
+This project is focused on the case of the 2019 Novel Coronavirus (2019-nCov), a specified type of virus identified to affect an outbreak of respiratory illness discovered in the far eastern part of the world in Wuhan, China. Reports stated that the primary source of infection came from the link to a huge amount of seafood and animal markets, resulting in animal-to-person spread. The increase of the virus infection amongst humans in that part of the region was recorded not from the exposure to the animal market but indicating person-to-person spread. It is reported and unclear how sustainable the virus is spreading among people.
+
 # Dataset Used
 Descriptive-and-Predictive-Analysis-For-2020-CoronaVirus
 
