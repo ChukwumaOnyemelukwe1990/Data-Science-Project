@@ -1,7 +1,7 @@
 # Data-Science-Project
 
 # Dataset Used
-## Descriptive-and-Predictive-Analysis-For-2020-CoronaVirus
+Descriptive-and-Predictive-Analysis-For-2020-CoronaVirus
 
 # Tools Used
   - **Pandas**
